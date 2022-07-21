@@ -1,0 +1,16 @@
+header {
+  //   background-color: #36d6ad;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 3rem;
+}
+
+.header-menu {
+  display: flex;
+  align-items: center;
+  gap: 3.625rem;
+}
